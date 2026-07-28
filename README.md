@@ -1,8 +1,3 @@
-Đã bổ sung đầy đủ liên kết **LinkedIn**, **Facebook**, và cập nhật chính xác địa chỉ **Email** (`congvanvu0000@gmail.com`) vào phần **Kết Nối Với Tôi** ở cuối profile cho bạn rồi nhé!
-
----
-
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=180&section=header&text=👋%20Xin%20chào,%20tôi%20là%20Vũ%20Văn%20Hà%20Công!&fontSize=32&fontColor=ffffff" />
 </p>
@@ -14,7 +9,7 @@
 
 ---
 
-## 👨‍💻 Giới Thiệu
+## 👨💻 Giới Thiệu
 
 - 🎓 **Cựu sinh viên ngành Công nghệ Thông tin (GPA 3.32)** - Trường Đại học Giao thông Vận tải (UTC).
 - 📍 **Sống tại:** Hà Nội, Việt Nam 🇻🇳
@@ -31,7 +26,7 @@
 |-----------|----------------|
 | 👁️ **Computer Vision & AI** | YOLO (v8/v11) · OpenCV · PyTorch · Object Detection & Tracking · Google Gemini API · Whisper STT |
 | 💾 **Backend** | ASP.NET Core · Entity Framework Core · PostgreSQL · Java Spring · Python (FastAPI/Flask) |
-| 🧑‍💻 **Frontend** | ReactJS · Tailwind CSS · HTML/CSS · JavaScript |
+| 🧑💻 **Frontend** | ReactJS · Tailwind CSS · HTML/CSS · JavaScript |
 | 🧰 **DevOps & Công cụ** | Docker · Git · GitHub Actions · WSL2 |
 | 🧪 **Kiểm thử** | Selenium WebDriver · JUnit · Unit Testing |
 | 📱 **Khác** | Thiết kế RESTful API · Kiến trúc MVC · Clean Code Practices |
@@ -140,5 +135,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:0D47A1&height=120&section=footer" />
 </p>
-
-```
