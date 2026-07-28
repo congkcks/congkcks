@@ -112,11 +112,15 @@
 
 ## 🌐 Kết Nối Với Tôi
 
+## 📊 Thống Kê GitHub
+
 <p align="center">
-  <a href="https://github.com/congkcks"><img src="https://img.shields.io/badge/GitHub-congkcks-black?logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/cong-vu-van-5936463aa/"><img src="https://img.shields.io/badge/LinkedIn-Cong%20Vu%20Van-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/van.vu.cong.761426"><img src="https://img.shields.io/badge/Facebook-V%C6%B0%20V%C4%83n%20C%C3%B4ng-1877F2?logo=facebook&logoColor=white" /></a>
-  <a href="mailto:congvanvu0000@gmail.com"><img src="https://img.shields.io/badge/Email-congvanvu0000%40gmail.com-red?logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=congkcks&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=congkcks&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congkcks&layout=compact&theme=radical&hide=html" alt="Top Languages" />
 </p>
 
 ---
