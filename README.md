@@ -1,3 +1,8 @@
+Đã bổ sung đầy đủ liên kết **LinkedIn**, **Facebook**, và cập nhật chính xác địa chỉ **Email** (`congvanvu0000@gmail.com`) vào phần **Kết Nối Với Tôi** ở cuối profile cho bạn rồi nhé!
+
+---
+
+```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=180&section=header&text=👋%20Xin%20chào,%20tôi%20là%20Vũ%20Văn%20Hà%20Công!&fontSize=32&fontColor=ffffff" />
 </p>
@@ -14,8 +19,10 @@
 - 🎓 **Cựu sinh viên ngành Công nghệ Thông tin (GPA 3.32)** - Trường Đại học Giao thông Vận tải (UTC).
 - 📍 **Sống tại:** Hà Nội, Việt Nam 🇻🇳
 - 💾 **Hành trang kỹ thuật:** Những năm tháng đại học đã mang đến cho tôi cơ hội khám phá và phát triển ứng dụng với `C#`, `Java`, `Python`, `PostgreSQL`, `ReactJS`, `Docker`, `ASP.NET Core`, cùng các mô hình **AI / Computer Vision**.
-- 🤖 **Đam mê:** Tích hợp AI (LLMs & Thị giác máy tính), Phát triển Web và Giải pháp Hỗ trợ Học Tiếng Anh.
+- 🤖 **Đam mê:** Tích hợp AI (LLMs & Thị giác máy tính trong nông nghiệp), Phát triển Web và Giải pháp Hỗ trợ Học Tiếng Anh.
 - ⚽ **Sở thích:** Fan cứng Manchester United 🔴⚪, Yêu âm nhạc 🎵, Đam mê FC Online 🎮.
+- 📝 *Ghi chú:* Profile này đóng vai trò như một thư viện số lưu giữ các dự án cá nhân, sự nỗ lực và những cột mốc đáng nhớ trong suốt hành trình học tập.
+
 ---
 
 ## 🧠 Kỹ Năng & Công Nghệ Đã Tích Lũy
@@ -31,9 +38,9 @@
 
 ---
 
-## 🚀 Các Dự Án Tiêu Biểu (Thời Đại Học)
+## 🚀 Các Bài Tập Cá Nhân (Thời Đại Học)
 
-### 👁️ Bài Tập Cá Nhân(Computer Vision)
+### 👁️ Thị Giác Máy Tính (Computer Vision)
 
 #### 🍅 Tomato Detection & Quality Classification (Nhận Diện & Phân Loại Cà Chua)
 **Công nghệ:** Python · YOLOv8 · OpenCV · PyTorch · FastAPI  
@@ -45,7 +52,7 @@
 
 ---
 
-#### 🐖 Livestock Smart Counting (Đếm Sô Pig)
+#### 🐖 Livestock Smart Counting (Đếm Pig)
 **Công nghệ:** Python · YOLOv8/v11 · ByteTrack / DeepSORT · OpenCV · High-Res Processing (1024x1024)  
 **Mô tả:** Giải pháp đếm số lượng lợn tự động qua camera giám sát tại chuồng/lối đi, giải quyết thách thức lợn di chuyển liên tục, đứng sát nhau và bị che khuất (occlusion).  
 **Điểm nổi bật:**
@@ -115,7 +122,9 @@
 
 <p align="center">
   <a href="https://github.com/congkcks"><img src="https://img.shields.io/badge/GitHub-congkcks-black?logo=github&logoColor=white" /></a>
-  <a href="mailto:congvanvu0000@gmail.com"><img src="https://img.shields.io/badge/Email-Liên%20Hệ%20Tôi-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cong-vu-van-5936463aa/"><img src="https://img.shields.io/badge/LinkedIn-Cong%20Vu%20Van-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/van.vu.cong.761426"><img src="https://img.shields.io/badge/Facebook-V%C6%B0%20V%C4%83n%20C%C3%B4ng-1877F2?logo=facebook&logoColor=white" /></a>
+  <a href="mailto:congvanvu0000@gmail.com"><img src="https://img.shields.io/badge/Email-congvanvu0000%40gmail.com-red?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -131,3 +140,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:0D47A1&height=120&section=footer" />
 </p>
+
+```
