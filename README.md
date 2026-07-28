@@ -9,7 +9,7 @@
 
 ---
 
-## 👨💻 Giới Thiệu
+## 👨‍💻 Giới Thiệu
 
 - 🎓 **Cựu sinh viên ngành Công nghệ Thông tin (GPA 3.32)** - Trường Đại học Giao thông Vận tải (UTC).
 - 📍 **Sống tại:** Hà Nội, Việt Nam 🇻🇳
@@ -26,16 +26,16 @@
 |-----------|----------------|
 | 👁️ **Computer Vision & AI** | YOLO (v8/v11) · OpenCV · PyTorch · Object Detection & Tracking · Google Gemini API · Whisper STT |
 | 💾 **Backend** | ASP.NET Core · Entity Framework Core · PostgreSQL · Java Spring · Python (FastAPI/Flask) |
-| 🧑💻 **Frontend** | ReactJS · Tailwind CSS · HTML/CSS · JavaScript |
+| 🧑‍💻 **Frontend** | ReactJS · Tailwind CSS · HTML/CSS · JavaScript |
 | 🧰 **DevOps & Công cụ** | Docker · Git · GitHub Actions · WSL2 |
 | 🧪 **Kiểm thử** | Selenium WebDriver · JUnit · Unit Testing |
 | 📱 **Khác** | Thiết kế RESTful API · Kiến trúc MVC · Clean Code Practices |
 
 ---
 
-## 🚀 Các Bài Tập Cá Nhân (Thời Đại Học)
+## 🚀 Các Dự Án Tiêu Biểu (Thời Đại Học)
 
-### 👁️ Thị Giác Máy Tính (Computer Vision)
+### 👁️ Dự Án Thị Giác Máy Tính (Computer Vision)
 
 #### 🍅 Tomato Detection & Quality Classification (Nhận Diện & Phân Loại Cà Chua)
 **Công nghệ:** Python · YOLOv8 · OpenCV · PyTorch · FastAPI  
@@ -47,7 +47,7 @@
 
 ---
 
-#### 🐖 Livestock Smart Counting (Đếm Pig)
+#### 🐖 Livestock Smart Counting (Hệ Thống Đếm Lợn Tự Động)
 **Công nghệ:** Python · YOLOv8/v11 · ByteTrack / DeepSORT · OpenCV · High-Res Processing (1024x1024)  
 **Mô tả:** Giải pháp đếm số lượng lợn tự động qua camera giám sát tại chuồng/lối đi, giải quyết thách thức lợn di chuyển liên tục, đứng sát nhau và bị che khuất (occlusion).  
 **Điểm nổi bật:**
@@ -103,22 +103,13 @@
 
 ---
 
-## 📊 Thống Kê GitHub
-  <img src="https://github-readme-stats.vercel.app/api?username=congkcks&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=congkcks&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congkcks&layout=compact&theme=radical" />
-
----
-
 ## 🌐 Kết Nối Với Tôi
 
-## 📊 Thống Kê GitHub
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <a href="https://github.com/congkcks"><img src="https://img.shields.io/badge/GitHub-congkcks-black?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cong-vu-van-5936463aa/"><img src="https://img.shields.io/badge/LinkedIn-Cong%20Vu%20Van-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/van.vu.cong.761426"><img src="https://img.shields.io/badge/Facebook-V%C6%B0%20V%C4%83n%20C%C3%B4ng-1877F2?logo=facebook&logoColor=white" /></a>
+  <a href="mailto:congvanvu0000@gmail.com"><img src="https://img.shields.io/badge/Email-congvanvu0000%40gmail.com-red?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
