@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>🎓 Cựu sinh viên CNTT UTC (Bằng Giỏi - GPA 3.32) | 🚀 Tech & AI Enthusiast | 👁️ Computer Vision & Web Builder</b><br/>
+  <b>🎓 Cựu sinh viên CNTT UTC (GPA 3.32) | 🚀 Tech & AI Enthusiast | 👁️ Computer Vision & Web Builder</b><br/>
   <i>"Trân trọng hành trình đã qua, vững vàng bước tiếp vào tương lai."</i>
 </p>
 
@@ -11,11 +11,13 @@
 
 ## 👨‍💻 Giới Thiệu
 
-- 🎓 **Tốt nghiệp Bằng Giỏi (GPA 3.32)** ngành Công nghệ Thông tin - Trường Đại học Giao thông Vận tải (UTC).
+- 🎓 **Cựu sinh viên ngành Công nghệ Thông tin (GPA 3.32)** - Trường Đại học Giao thông Vận tải (UTC).
 - 📍 **Sống tại:** Hà Nội, Việt Nam 🇻🇳
 - 💾 **Hành trang kỹ thuật:** Những năm tháng đại học đã mang đến cho tôi cơ hội khám phá và phát triển ứng dụng với `C#`, `Java`, `Python`, `PostgreSQL`, `ReactJS`, `Docker`, `ASP.NET Core`, cùng các mô hình **AI / Computer Vision**.
 - 🤖 **Đam mê:** Tích hợp AI (LLMs & Thị giác máy tính trong nông nghiệp), Phát triển Web và Giải pháp Hỗ trợ Học Tiếng Anh.
 - ⚽ **Sở thích:** Fan cứng Manchester United 🔴⚪, Yêu âm nhạc 🎵, Đam mê FC Online 🎮.
+- 📝 *Ghi chú:* Profile này đóng vai trò như một thư viện số lưu giữ các dự án cá nhân, sự nỗ lực và những cột mốc đáng nhớ trong suốt hành trình học tập.
+
 ---
 
 ## 🧠 Kỹ Năng & Công Nghệ Đã Tích Lũy
