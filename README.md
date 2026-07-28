@@ -14,10 +14,8 @@
 - 🎓 **Cựu sinh viên ngành Công nghệ Thông tin (GPA 3.32)** - Trường Đại học Giao thông Vận tải (UTC).
 - 📍 **Sống tại:** Hà Nội, Việt Nam 🇻🇳
 - 💾 **Hành trang kỹ thuật:** Những năm tháng đại học đã mang đến cho tôi cơ hội khám phá và phát triển ứng dụng với `C#`, `Java`, `Python`, `PostgreSQL`, `ReactJS`, `Docker`, `ASP.NET Core`, cùng các mô hình **AI / Computer Vision**.
-- 🤖 **Đam mê:** Tích hợp AI (LLMs & Thị giác máy tính trong nông nghiệp), Phát triển Web và Giải pháp Hỗ trợ Học Tiếng Anh.
+- 🤖 **Đam mê:** Tích hợp AI (LLMs & Thị giác máy tính), Phát triển Web và Giải pháp Hỗ trợ Học Tiếng Anh.
 - ⚽ **Sở thích:** Fan cứng Manchester United 🔴⚪, Yêu âm nhạc 🎵, Đam mê FC Online 🎮.
-- 📝 *Ghi chú:* Profile này đóng vai trò như một thư viện số lưu giữ các dự án cá nhân, sự nỗ lực và những cột mốc đáng nhớ trong suốt hành trình học tập.
-
 ---
 
 ## 🧠 Kỹ Năng & Công Nghệ Đã Tích Lũy
@@ -35,7 +33,7 @@
 
 ## 🚀 Các Dự Án Tiêu Biểu (Thời Đại Học)
 
-### 👁️ Dự Án Thị Giác Máy Tính (Computer Vision)
+### 👁️ Bài Tập Cá Nhân(Computer Vision)
 
 #### 🍅 Tomato Detection & Quality Classification (Nhận Diện & Phân Loại Cà Chua)
 **Công nghệ:** Python · YOLOv8 · OpenCV · PyTorch · FastAPI  
@@ -47,7 +45,7 @@
 
 ---
 
-#### 🐖 Livestock Smart Counting (Hệ Thống Đếm Lợn Tự Động)
+#### 🐖 Livestock Smart Counting (Đếm Sô Pig)
 **Công nghệ:** Python · YOLOv8/v11 · ByteTrack / DeepSORT · OpenCV · High-Res Processing (1024x1024)  
 **Mô tả:** Giải pháp đếm số lượng lợn tự động qua camera giám sát tại chuồng/lối đi, giải quyết thách thức lợn di chuyển liên tục, đứng sát nhau và bị che khuất (occlusion).  
 **Điểm nổi bật:**
