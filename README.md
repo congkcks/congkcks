@@ -16,7 +16,6 @@
 - 💾 **Hành trang kỹ thuật:** Những năm tháng đại học đã mang đến cho tôi cơ hội khám phá và phát triển ứng dụng với `C#`, `Java`, `Python`, `PostgreSQL`, `ReactJS`, `Docker`, `ASP.NET Core`, cùng các mô hình **AI / Computer Vision**.
 - 🤖 **Đam mê:** Tích hợp AI (LLMs & Thị giác máy tính trong nông nghiệp), Phát triển Web và Giải pháp Hỗ trợ Học Tiếng Anh.
 - ⚽ **Sở thích:** Fan cứng Manchester United 🔴⚪, Yêu âm nhạc 🎵, Đam mê FC Online 🎮.
-- 📝 *Ghi chú:* Profile này đóng vai trò như một thư viện số lưu giữ các dự án cá nhân, sự nỗ lực và những cột mốc đáng nhớ trong suốt hành trình học tập.
 
 ---
 
