@@ -1,126 +1,179 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=180&section=header&text=👋%20Xin%20chào,%20tôi%20là%20Vũ%20Văn%20Hà%20Công!&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=Vũ%20Văn%20Hà%20Công&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%7C%20AI%20Integration%20%7C%20Web%20Developer&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
-  <b>🎓 Cựu sinh viên CNTT UTC (GPA 3.32) | 🚀 Tech & AI Enthusiast | 👁️ Computer Vision & Web Builder</b><br/>
-  <i>"Trân trọng hành trình đã qua, vững vàng bước tiếp vào tương lai."</i>
+  <a href="https://www.linkedin.com/in/cong-vu-van-5936463aa/">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Vision+Engineer;YOLO+%2B+OpenCV+%2B+PyTorch;Xay+dung+AI+cho+Nong+nghiep;Full-stack+.NET+%2B+ReactJS;Luon+san+sang+hoc+cai+moi!&font=Fira+Code&center=true&width=600&height=45&color=1976D2&vCenter=true&size=22" />
+  </a>
 </p>
-
----
-
-## 👨‍💻 Giới Thiệu
-
-- 🎓 **Cựu sinh viên ngành Công nghệ Thông tin (GPA 3.32)** - Trường Đại học Giao thông Vận tải (UTC).
-- 📍 **Sống tại:** Hà Nội, Việt Nam 🇻🇳
-- 💾 **Hành trang kỹ thuật:** Những năm tháng đại học đã mang đến cho tôi cơ hội khám phá và phát triển ứng dụng với `C#`, `Java`, `Python`, `PostgreSQL`, `ReactJS`, `Docker`, `ASP.NET Core`, cùng các mô hình **AI / Computer Vision**.
-- 🤖 **Đam mê:** Tích hợp AI (LLMs & Thị giác máy tính trong nông nghiệp), Phát triển Web và Giải pháp Hỗ trợ Học Tiếng Anh.
-- ⚽ **Sở thích:** Fan cứng Manchester United 🔴⚪, Yêu âm nhạc 🎵, Đam mê FC Online 🎮.
-
----
-
-## 🧠 Kỹ Năng & Công Nghệ Đã Tích Lũy
-
-| Danh mục | Công nghệ / Công cụ |
-|-----------|----------------|
-| 👁️ **Computer Vision & AI** | YOLO (v8/v11) · OpenCV · PyTorch · Object Detection & Tracking · Google Gemini API · Whisper STT |
-| 💾 **Backend** | ASP.NET Core · Entity Framework Core · PostgreSQL · Java Spring · Python (FastAPI/Flask) |
-| 🧑‍💻 **Frontend** | ReactJS · Tailwind CSS · HTML/CSS · JavaScript |
-| 🧰 **DevOps & Công cụ** | Docker · Git · GitHub Actions · WSL2 |
-| 🧪 **Kiểm thử** | Selenium WebDriver · JUnit · Unit Testing |
-| 📱 **Khác** | Thiết kế RESTful API · Kiến trúc MVC · Clean Code Practices |
-
----
-
-## 🚀 Các Dự Án Tiêu Biểu (Thời Đại Học)
-
-### 👁️ Dự Án Thị Giác Máy Tính (Computer Vision)
-
-#### 🍅 Tomato Detection & Quality Classification (Nhận Diện & Phân Loại Cà Chua)
-**Công nghệ:** Python · YOLOv8 · OpenCV · PyTorch · FastAPI  
-**Mô tả:** Hệ thống Thị giác máy tính nhận diện quả cà chua trên cây/trên băng chuyền, tự động phân loại độ chín (xanh, chín, chín hỏng) và phát hiện các dấu hiệu sâu bệnh.  
-**Điểm nổi bật:**
-- Huấn luyện mô hình YOLOv8 phát hiện đối tượng với độ chính xác cao trong môi trường ánh sáng tự nhiên phức tạp.
-- Phân vùng & đánh giá chất lượng nông sản dựa trên màu sắc và hình dạng, hỗ trợ tự động hóa nông nghiệp thông minh.
-👉 [🔗 Xem Repository](https://github.com/congkcks)
-
----
-
-#### 🐖 Livestock Smart Counting (Hệ Thống Đếm Lợn Tự Động)
-**Công nghệ:** Python · YOLOv8/v11 · ByteTrack / DeepSORT · OpenCV · High-Res Processing (1024x1024)  
-**Mô tả:** Giải pháp đếm số lượng lợn tự động qua camera giám sát tại chuồng/lối đi, giải quyết thách thức lợn di chuyển liên tục, đứng sát nhau và bị che khuất (occlusion).  
-**Điểm nổi bật:**
-- Tối ưu hóa mô hình ở độ phân giải cao (1024x1024) giúp tăng mật độ lưới dự đoán, phát hiện chuẩn xác các mục tiêu nhỏ hoặc đứng sát nhau.
-- Tích hợp thuật toán Multi-Object Tracking (MOT) giúp theo dõi từng cá thể, tránh đếm trùng lặp khi lợn di chuyển qua lại vạch ranh giới.
-👉 [🔗 Xem Repository](https://github.com/congkcks)
-
----
-
-### 🗣️ Dự Án Học Tiếng Anh & AI Integration
-
-#### 🎯 English Mentor Buddy
-**Công nghệ:** ReactJS · ASP.NET Core · PostgreSQL · Tích hợp AI  
-**Mô tả:** Trợ lý học tiếng Anh thông minh giúp người dùng nâng cao kỹ năng giao tiếp thông qua các cuộc trò chuyện tương tác và phản hồi cá nhân hóa từ AI.  
-**Điểm nổi bật:**
-- Trợ lý AI tương tác phản hồi thời gian thực.
-- Phân tích hội thoại trực tiếp và đánh giá năng lực tự động.
-👉 [🔗 Xem Repository](https://github.com/congkcks/english-mentor-buddy)
-
----
-
-#### 📚 TOEIC Ace Path 18
-**Công nghệ:** Full-stack Web Application · Quản trị CSDL · Tính năng AI  
-**Mô tả:** Nền tảng luyện thi TOEIC toàn diện giúp sinh viên đạt điểm số cao thông qua lộ trình học có cấu trúc và các bài thi thử sát thực tế.  
-👉 [🔗 Xem Repository](https://github.com/congkcks/toeic-ace-path-18)
-
----
-
-#### 💡 EngAce (Nền Tảng Học Tiếng Anh Toàn Diện)
-**Công nghệ:** ASP.NET Core · ReactJS · PostgreSQL · Gemini API  
-**Mô tả:** Hệ thống tích hợp AI hỗ trợ người dùng thực hành Từ vựng, Nghe, Nói, Viết với cơ chế chấm điểm và sửa lỗi tự động bằng Gemini API.  
-👉 [🔗 Xem Repository](#)
-
----
-
-#### 💬 AI-Speaking-Coach
-**Công nghệ:** React + Tailwind · ASP.NET Core API · Gemini Flash · Whisper STT  
-**Mô tả:** Ứng dụng luyện nói Tiếng Anh tương tác: Ghi âm giọng nói → Chuyển văn bản (STT) → Phân tích phát âm → Nhận phản hồi AI chi tiết về độ trôi chảy, ngữ pháp và từ vựng.  
-👉 [🔗 Xem Repository](#)
-
----
-
-### 🧾 Tóm Tắt Danh Sách Dự Án
-
-| Tên Dự Án | Mô Tả Ngắn Gọn | Liên Kết |
-|------------|------------|-----------|
-| 🍅 **Tomato Quality AI** | Nhận diện cà chua và phân loại độ chín/sâu bệnh bằng YOLO & OpenCV. | [Repo](https://github.com/congkcks) |
-| 🐖 **Livestock Smart Counter** | Đếm số lượng lợn tự động qua camera với YOLO (1024x1024) & Object Tracking. | [Repo](https://github.com/congkcks) |
-| 🎯 **English Mentor Buddy** | Trợ lý AI học tiếng Anh thông minh với đánh giá cá nhân hóa. | [Repo](https://github.com/congkcks/english-mentor-buddy) |
-| 📚 **TOEIC Ace Path 18** | Nền tảng luyện thi TOEIC và phân tích tiến độ học tập. | [Repo](https://github.com/congkcks/toeic-ace-path-18) |
-| 💡 **EngAce** | Hệ thống học tiếng Anh đa kỹ năng tích hợp Gemini AI. | [Repo](#) |
-| 💬 **AI-Speaking-Coach** | Luyện phát âm tiếng Anh với phản hồi AI chi tiết. | [Repo](#) |
-
----
-
-## 🌐 Kết Nối Với Tôi
 
 <p align="center">
-  <a href="https://github.com/congkcks"><img src="https://img.shields.io/badge/GitHub-congkcks-black?logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/cong-vu-van-5936463aa/"><img src="https://img.shields.io/badge/LinkedIn-Cong%20Vu%20Van-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/van.vu.cong.761426"><img src="https://img.shields.io/badge/Facebook-V%C6%B0%20V%C4%83n%20C%C3%B4ng-1877F2?logo=facebook&logoColor=white" /></a>
-  <a href="mailto:congvanvu0000@gmail.com"><img src="https://img.shields.io/badge/Email-congvanvu0000%40gmail.com-red?logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/📍_Location-Hà_Nội,_Việt_Nam-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_GPA-3.32-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Focus-Computer_Vision_&_AI-red?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎯 Góc Tản Mạn & Góc Nhìn Thú Vị
+### 👨‍💻 Về tôi
 
-- 🎓 **Kỷ Niệm Khó Quên:** Nhìn lại hành trình đã qua, tôi vô cùng biết ơn những năm tháng học tập tại UTC. Thời sinh viên không chỉ mang lại một tấm bằng, mà còn là một chuyến đi trưởng thành đầy tự hào, bài học về sự kiên trì và những mối quan hệ vô giá.
-- ⚽ Fan cuồng nhiệt của Manchester United – GGMU! 🔴⚪
-- 🎮 Đam mê FC Online – Xây dựng đội hình giấc mơ và leo rank mỗi giờ rảnh rỗi.
+- 🎓 Cựu sinh viên **Công nghệ Thông tin** — Trường Đại học Giao thông Vận tải (UTC), GPA **3.32**
+- 👁️ Chuyên sâu **Computer Vision**: object detection, tracking, phân loại chất lượng nông sản bằng YOLO
+- 🤖 Đam mê tích hợp **AI/LLM** (Google Gemini, Whisper STT) vào sản phẩm thực tế, đặc biệt mảng **EdTech tiếng Anh**
+- 🌱 Đang mở rộng sang MLOps, triển khai mô hình CV lên production (Docker, FastAPI)
+- ⚽ Fan cứng Manchester United | 🎮 FC Online | 🎵 Âm nhạc
 
 ---
+
+### 🧠 Tech Stack
+
+**Computer Vision / AI**
+<p>
+<img src="https://img.shields.io/badge/YOLOv8/v11-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=google-gemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+**Backend**
+<p>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=nuget&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java_Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+**DevOps & Testing**
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Dự án nổi bật
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🍅 Tomato Detection & Quality Classification**
+
+Hệ thống CV nhận diện cà chua trên băng chuyền, tự động phân loại độ chín và phát hiện sâu bệnh — hướng tới tự động hóa nông nghiệp thông minh.
+
+`YOLOv8` `OpenCV` `PyTorch` `FastAPI`
+
+✅ Huấn luyện detection model chính xác trong điều kiện ánh sáng tự nhiên phức tạp
+✅ Phân loại chất lượng dựa trên màu sắc & hình dạng
+
+[🔗 Xem Repo](https://github.com/congkcks)
+
+</td>
+<td width="50%" valign="top">
+
+**🐖 Livestock Smart Counting**
+
+Đếm số lượng lợn tự động qua camera giám sát, xử lý bài toán che khuất và di chuyển liên tục bằng Multi-Object Tracking.
+
+`YOLOv8/v11` `ByteTrack/DeepSORT` `OpenCV` `1024×1024`
+
+✅ Tối ưu độ phân giải cao để phát hiện mục tiêu nhỏ, đứng sát nhau
+✅ Tracking từng cá thể, tránh đếm trùng khi qua vạch ranh giới
+
+[🔗 Xem Repo](https://github.com/congkcks)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 English Mentor Buddy**
+
+Trợ lý học tiếng Anh AI với hội thoại tương tác thời gian thực và đánh giá năng lực tự động.
+
+`ReactJS` `ASP.NET Core` `PostgreSQL`
+
+[🔗 Xem Repo](https://github.com/congkcks/english-mentor-buddy)
+
+</td>
+<td width="50%" valign="top">
+
+**💬 AI-Speaking-Coach**
+
+Ghi âm → Speech-to-Text (Whisper) → phân tích phát âm → phản hồi AI chi tiết về độ trôi chảy, ngữ pháp, từ vựng.
+
+`React` `Gemini Flash` `Whisper STT`
+
+[🔗 Điền link repo thật vào đây]
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📚 TOEIC Ace Path 18**
+
+Nền tảng luyện thi TOEIC với lộ trình học có cấu trúc và đề thi thử sát thực tế.
+
+`Full-stack` `Quản trị CSDL`
+
+[🔗 Xem Repo](https://github.com/congkcks/toeic-ace-path-18)
+
+</td>
+<td width="50%" valign="top">
+
+**💡 EngAce**
+
+Hệ thống học tiếng Anh đa kỹ năng (Từ vựng, Nghe, Nói, Viết) tích hợp chấm điểm tự động bằng Gemini API.
+
+`ASP.NET Core` `ReactJS` `Gemini API`
+
+[🔗 Điền link repo thật vào đây]
+
+</td>
+</tr>
+</table>
+
+>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=congkcks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congkcks&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=congkcks&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Kết nối với tôi
+
+<p align="center">
+  <a href="https://github.com/congkcks"><img src="https://img.shields.io/badge/GitHub-congkcks-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cong-vu-van-5936463aa/"><img src="https://img.shields.io/badge/LinkedIn-Cong_Vu_Van-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/van.vu.cong.761426"><img src="https://img.shields.io/badge/Facebook-Vũ_Văn_Công-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:congvanvu0000@gmail.com"><img src="https://img.shields.io/badge/Email-congvanvu0000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:0D47A1&height=120&section=footer" />
 </p>
+
+<p align="center"><i>"Trân trọng hành trình đã qua, vững vàng bước tiếp vào tương lai."</i></p>
